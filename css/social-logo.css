@@ -1,0 +1,31 @@
+.wrapper {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 1vh;
+}
+
+.wrapper i {
+  padding: 10px;
+  text-shadow: 0px 6px 8px rgba(0, 0, 0, 0.6);
+  transition: all ease-in-out 150ms;
+}
+.wrapper a:nth-child(1) {
+  color: #3E2C00;
+}
+.wrapper a:nth-child(2) {
+  color: #0072b1;
+}
+.wrapper a:nth-child(3) {
+  color: #36bf52;
+}
+.wrapper a:nth-child(4) {
+  color: #00acee;
+}
+.wrapper a:nth-child(5) {
+  color: #0077B5;
+}
+.wrapper i:hover {
+  margin-top: -3px;
+  text-shadow: 0px 14px 10px rgba(0, 0, 0, 0.4);
+}

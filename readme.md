@@ -1,7 +1,7 @@
 # Welcome to my Portfolio Site
 
 
-#### Project live at 
+#### View site live 
 1. [ybg345.github.io](https://ybg345.github.io/)
 2. [mehedi-me.netlify.app](https://mehedi-me.netlify.app/)
 
@@ -18,5 +18,7 @@ It's a static website which is made using ***HTML***, ***CSS***, ***JavaScript**
 
 
 
-###### If you are curious about how the site looks like, you are welcome to visit the live version by clicking on any of the [live links](#project-live-at) mentioned above.  
+###### If you are curious about how the site looks like, you are welcome to visit the live version by clicking on any of the [live links mentioned above](#project-live-at).  
+
+<h6 style="text-align:center">Thank you</h6>
 

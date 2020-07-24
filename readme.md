@@ -18,5 +18,5 @@ It's a static website which is made using ***HTML***, ***CSS***, ***JavaScript**
 
 
 
-###### If you are curious about how the site looks like, you are welcome to visit the live version by clicking on any of the live links mentioned above.  
+###### If you are curious about how the site looks like, you are welcome to visit the live version by clicking on any of the [live links](#project-live-at) mentioned above.  
 

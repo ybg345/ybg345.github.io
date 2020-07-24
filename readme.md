@@ -17,8 +17,4 @@ It's a static website which is made using ***HTML***, ***CSS***, ***JavaScript**
 > You are welcome to fork/download the project, customize it and use as your own. 
 
 
-
-###### If you are curious about how the site looks like, you are welcome to visit the live version by clicking on any of the [live links mentioned above](#project-live-at).  
-
-<h6 style="text-align:center">Thank you</h6>
-
+<h6 style="color:darkgray">If you are curious about how the site looks like, you are welcome to visit the live version by clicking on any of the live links mentioned above. Thank you.</h6>

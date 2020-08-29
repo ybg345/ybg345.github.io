@@ -1,20 +1,17 @@
-# Welcome to my Portfolio Site
+### Welcome to my Portfolio Site
 
 
-#### View site live 
-1. [ybg345.github.io](https://ybg345.github.io/)
-2. [mehedi-me.netlify.app](https://mehedi-me.netlify.app/)
+<iframe src="https://ghbtns.com/github-btn.html?user=ybg345&repo=ybg345.github.io&type=star&count=true&size=large" frameborder="0" scrolling="0" width="170" height="30" title="GitHub"></iframe>
+
+<iframe src="https://ghbtns.com/github-btn.html?user=ybg345&repo=ybg345.github.io&type=fork&count=true&size=large" frameborder="0" scrolling="0" width="170" height="30" title="GitHub"></iframe>
 
 
-#### About the Site 
 
-It's a static website which is made using ***HTML***, ***CSS***, ***JavaScript*** & ***Bootstrap*** only. 
+##### It's a static portfolio site made using HTML, CSS, JavaScript & Bootstrap.
 
-> The original project is a template downloaded from internet. Unfortunately I am unable to share the origin reference as I couldn't remember from where I downloaded it. Thanks to the  developer who created the original version. 
-> 
-> After downloading the original project I heavily customized it as per my own requirement. 
-> 
-> You are welcome to fork/download the project, customize it and use as your own. 
+[![button](https://toshibalaptoponline.files.wordpress.com/2013/10/click-to-visit1.gif)](https://mehedi-me.netlify.app/)
+
+<h6 style="color:darkviolet">You are welcome to visit the site live version by clicking above image button.</h6>
 
 
-<h6 style="color:darkgray">If you are curious about how the site looks like, you are welcome to visit the live version by clicking on any of the live links mentioned above. Thank you.</h6>
+[![button](https://lh3.googleusercontent.com/proxy/GzhXnbq-GlZQrw1AyIRcyTVX1o_4qtF4QT6eBc7ZEBnoYGFiEtAgBb8pP4euT6bGTfYDuVdyzcm0P9INP53if7J2WdRBEB0U)](https://www.tooplate.com/view/2115-marvel)
